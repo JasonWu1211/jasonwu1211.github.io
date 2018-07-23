@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/crimecover.jpg
+image: images/micromouse.jpg
 title: Chicago Crime Data Visualization
 permalink: projects/ChicagoCrime_DataVisualization
 # All dates must be YYYY-MM-DD format!
@@ -24,7 +24,7 @@ summary: The Truth About Chicago's Crime Rates.
 This project was inspired out of a curiosity for assessing crime rates throughout Chicago’s various different neighborhoods. Using Tableau, R statistical analysis, and the 2012 – 2016 crime data from Kaggle, my team and I investigated the different types of crimes that occurred, the arrest rates, and the frequency and time of year they took place. This investigation covered 3 different techniques for analyzing the crime dataset: exploratory graphs (dot and bar charts and treemaps), time series (line plots and heat maps), and geographical graphs.
 
 
-Here is What we Found out:
+Here is what we found out:
 
 * Crime Hot Spots: downtown, southside, and area between Oak Park and Downtown
 * Overall crime in Chicago has declined from 2012 to 2016
