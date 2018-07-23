@@ -27,23 +27,6 @@
       }  
     ]
   },
-  "interests": [
-    {
-      "name": "data science",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
-    }
-  ],
   "skills": [
     {
       "name": "Languages and Frameworks",
