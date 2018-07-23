@@ -11,6 +11,7 @@ labels:
   - R
   - Tableau
   - EDA
+  - Time Series Analysis
   
 summary: The Truth About Chicago's Crime Rates.
 ---
