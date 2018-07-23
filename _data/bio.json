@@ -115,22 +115,16 @@
   ],
   "certifications": [
     {
-      "title": "Data Analyst with Python",
+      "cert": "Data Analyst with Python",
       "date": "2018",
-      "awarder": "DataCamp",
-      "summary": "License #40512"
+      "issuer": "DataCamp",
+      "licence": "License #40512"
     },
     {
-      "title": "Python Programmer",
+      "cert": "Python Programmer",
       "date": "2018",
-      "awarder": "DataCamp",
-      "summary": "License #40513"
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
+      "issuer": "DataCamp",
+      "licence": "License #40513"
     }
   ],
   
@@ -193,5 +187,13 @@
       "awarder": "Golden Key International Honour Society",
       "summary": "As one of the top-performing, 15% , of all graduate students, I was invited to join the Golden Key International Honour Society."
     }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
   ]
+  
 }
+
