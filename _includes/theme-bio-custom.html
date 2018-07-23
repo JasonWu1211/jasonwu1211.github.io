@@ -1,17 +1,27 @@
-<div class="ui raised centered segment stackable grid" style="margin-top: 15px; margin-left: auto; margin-right: auto; max-width: 848px; padding: 14px;">
-  <div class="row">
-    <h2 class="ui header">Last updated 5/19/17</h2>
+<div style="margin-top: 10px; margin-bottom: 20px" class="ui stackable grid container">
+
+  <div class="sixteen wide column no-bottom">
+    <h2 class="ui center aligned header no-bottom">{{ site.data.bio.basics.name }}</h2>
+    <p style="text-align: center">Abbreviated Curriculum Vitae (complete CV is <a href="https://github.com/philipmjohnson/cv/raw/master/philipmjohnson-cv.pdf">here</a>)</p>
   </div>
-  <div class="row">
-    <div class="seven wide column" style="text-align: center;"><a class="ui big blue button" href="../resume/jerry_resume.doc" download>Download Word</a></div>
-    <div class="seven wide column" style="text-align: center;"><a class="ui big red button" href="../resume/jerry_resume.pdf" download>Download PDF</a></div>
+
+  <div class="eight wide left aligned column">
+    {% include bio-network-links.html %}
   </div>
-  <div class="row pdf-viewer">
-    <object data="../resume/jerry_resume.pdf#toolbar=0" type="application/pdf" width="800px" height="1032px">
-      <p>Your browser does not support viewing PDFs. Please download and view separately.</p>
-    </object>
+
+  <div class="eight wide right aligned column">
+    {% include bio-address.html %}
   </div>
-  <div class="row pdf-message" style="display: none;">
-    <p>Viewing on mobile devices is not supported. Please download and view separately.</p>
+
+  {% include bio-education-2.html %}
+  {% include bio-work-2.html %}
+  {% include bio-volunteer-2.html %}
+  {% include bio-publications-2.html %}
+  {% include bio-awards-2.html %}
+
+  <div class="sixteen wide column no-bottom">
+    <hr>
+    <p style="text-align: center">Complete CV for Philip Johnson is <a href="https://github.com/philipmjohnson/cv/raw/master/philipmjohnson-cv.pdf">here</a></p>
   </div>
+
 </div>
