@@ -128,6 +128,41 @@
     }
   ],
   
+  "projects": [
+    {
+      "sub": "Entertainment | Python",
+      "prj": "Anime Recommender System",
+      "website": "https://github.com/JasonWu1211/Portfolio/tree/master/Anime%20Recommender%20Systems%20%7C%20Python",
+      "endDate": "2018",
+      "summary": "Single-handedly developed a collaborative-based anime recommender system capable of generating a personalized list of anime recommendations based on database information comprising total user history and rating ID user feedback.Challenged to establish and train the appropriate evaluation matrix and key metrics to gauge the model’s performance and accuracy in providing practical information to improve the user experience.",
+      "highlights": [
+        "Boosted the system’s accuracy from 30% to 45% ",
+        "Streamlined the analysis of large datasets by integrating a data pre-processing system that enhanced the rating data quality",
+        "Maximized the results by incorporating and fine-tuning key performance metrics including a nDCG matrix, coverage, and average list popularity, which diversified the items in the list."
+      ]
+    },
+    {
+      "sub": "Healthcare | Python",
+      "prj": "Patient Behavior Study",
+      "website": "https://github.com/JasonWu1211/Portfolio/tree/master/Ensemble%20Learning%20-%20Predicting%20Medical%20Medical%20No%20Show%20%7C%20Python",
+      "endDate": "2017",
+      "summary": "Investigated basic and advanced machine learning algorithms (Naïve Bayes, Ensemble, Support Vector Machine [SVM]) and created predictive models to analyze medical appointment datasets from Kaggle to determine why patients were missing appointments. Planned and executed experiments to optimize models’ performance by selecting the most relevant key features and identify the best algorithm that would help hospitals predict show or no-show cases",
+      "highlights": [
+        "builded better results by combining the advantages of multiple machine learning algorithms, including SVM, gradient boosting, and random forest to identify no-show cases based on more than 110,000 data entries."
+        "Resolved imbalanced Class issue using SMOTE (Synthetic Minority Over-sampling Technique)."
+      ]
+    },
+    {
+      "sub": "Crime | R, Tableau",
+      "prj": "Chicago Crime Data Visualization",
+      "website": "https://github.com/JasonWu1211/Portfolio/tree/master/Data%20Visualization%20-%20Chicago%20Crime%20%7C%20R",
+      "endDate": "2017",
+      "summary": "Used Tableau, R statistical analysis, geographical heat maps, and the 2012 to 2016 crime data from Kaggle to investigate the different crimes, time, location, and the frequency in which they were committed throughout Chicago’s various neighborhoods.",
+      "highlights": [
+        "Concluded that overall crime in Chicago has declined and that the highest crime rates specifically occur downtown, on the south side, and the area between Oak Park and downtown during the summer period from June to August."
+      ]
+    }
+  ],
   "work": [
     {
       "company": "NORC at the University of Chicago",
@@ -149,33 +184,6 @@
       "summary": "Hired to collect and analyze student data using SQL. Contributed to the development of engaging marketing and promotional materials, based on data analysis and interpretation, to grow student enrollment levels.",
       "highlights": [
         "Achieved a 20% increase in response rates within a 2-month period by thinking ‘outside the box’ and promoting the program in a university setting, resulting in a 10% growth in student annual enrollment rates."
-      ]
-    }
-  ],
-  "Select Data Science Projects": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
