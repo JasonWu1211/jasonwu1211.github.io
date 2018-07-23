@@ -22,7 +22,7 @@ summary: The Truth About Chicago's Crime Rates.
   <img class="ui image" src="../images/Screen Shot 2017-05-28 at 2.14.08 PM.png">
 </div>
 
-This project was inspired out of a curiosity for assessing __crime rates throughout Chicago’s various different neighborhoods__. Using __Tableau, R statistical analysis, and the 2012 – 2016 crime data from Kaggle__, my team and I investigated the different types of crimes that occurred, the arrest rates, and the frequency and time of year they took place. This investigation covered 3 different techniques for analyzing the crime dataset: __exploratory graphs__ (dot plots, bar charts and treemaps), __time series__ (line plots and heat maps), and __geographical graphs__.
+This project was inspired out of a curiosity for assessing __crime rates throughout Chicago’s various different neighborhoods__. Using __Tableau, R statistical analysis__, and the 2012 – 2016 crime data from Kaggle__, my team and I investigated the different types of crimes that occurred, the arrest rates, and the frequency and time of year they took place. This investigation covered 3 different techniques for analyzing the crime dataset: __exploratory graphs__ (dot plots, bar charts and treemaps), __time series__ (line plots and heat maps), and __geographical graphs__.
 
 
 ### Here is what we found out:
