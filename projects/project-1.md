@@ -10,14 +10,12 @@ labels:
   - Data Visualization
   - R
   - Tableau
-  - Geographical Heat Map
-  - Time Series Analysis
-  - Exploratory Data Analysis
   
 summary: The Truth About Chicago's Crime Rates.
 ---
 
 <div class="ui small rounded images">
+  <img class="ui image" src="../images/crimecover.jpg">
   <img class="ui image" src="../images/heatmap2.jpg">
   <img class="ui image" src="../images/top10.png">
   <img class="ui image" src="../images/Screen Shot 2017-05-28 at 2.14.08 PM.png">
@@ -32,8 +30,6 @@ Here is What we Found out:
 * Overall crime in Chicago has declined from 2012 to 2016
 * Top crime types committed were theft and battery
 * Recurring high crime rate during the summer periond (June - August) every year
-
-<img class="ui medium right floated rounded image" src="/images/heatmap2.jpg">
 
 
 
