@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/dataset-original.png
 title: Anime Recommender System
-permalink: projects/vacay
+permalink: projects/AnimeRec
 # All dates must be YYYY-MM-DD format!
 date: 2018-5-10
 labels:
