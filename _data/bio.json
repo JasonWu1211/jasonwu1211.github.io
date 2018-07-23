@@ -148,7 +148,7 @@
       "endDate": "2017",
       "summary": "Investigated basic and advanced machine learning algorithms (Naïve Bayes, Ensemble, Support Vector Machine [SVM]) and created predictive models to analyze medical appointment datasets from Kaggle to determine why patients were missing appointments. Planned and executed experiments to optimize models’ performance by selecting the most relevant key features and identify the best algorithm that would help hospitals predict show or no-show cases",
       "highlights": [
-        "builded better results by combining the advantages of multiple machine learning algorithms, including SVM, gradient boosting, and random forest to identify no-show cases based on more than 110,000 data entries."
+        "builded better results by combining the advantages of multiple machine learning algorithms, including SVM, gradient boosting, and random forest to identify no-show cases based on more than 110,000 data entries.",
         "Resolved imbalanced Class issue using SMOTE (Synthetic Minority Over-sampling Technique)."
       ]
     },
