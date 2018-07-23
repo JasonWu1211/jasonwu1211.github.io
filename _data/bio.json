@@ -40,7 +40,7 @@
       ]
     },
     {
-      "name": "MACHINE LEARNING & DATA MINING",
+      "name": "Machine Learning & Data Mining",
       "level": "",
       "keywords": [
         "Supervised Learning",
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "name": "DATA VISUALIZATION & ANALYSIS",
+      "name": "Data Visualization & Analysis",
       "level": "",
       "keywords": [
         "Tableau",
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "name": "BIG DATA & CLOUD SERVICES",
+      "name": "Big Data & Cloud Services",
       "level": "",
       "keywords": [
         "Hadoop",
@@ -130,7 +130,7 @@
       ]
     }
   ],
-  "volunteer": [
+  "Select Data Science Projects": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
@@ -157,18 +157,24 @@
       ]
     }
   ],
-  "awards": [
+  "Awards & Certificates": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Golden Key International Honour",
+      "date": "2017",
+      "awarder": "Golden Key International Honour Society",
+      "summary": "SAs one of the top-performing, fifteen percent, of all graduate students, I was invited to join the Golden Key International Honour Society."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Data Analyst with Python",
+      "date": "2018",
+      "awarder": "DataCamp",
+      "summary": "License #40512"
+    },
+    {
+      "title": "Python Programmer",
+      "date": "2018",
+      "awarder": "DataCamp",
+      "summary": "License #40513"
     }
   ],
   "references": [
