@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/crimecover.jpg
 title: Chicago Crime Data Visualization
 permalink: projects/ChicagoCrime_DataVisualization
 # All dates must be YYYY-MM-DD format!
@@ -10,6 +10,7 @@ labels:
   - Data Visualization
   - R
   - Tableau
+  - EDA
   
 summary: The Truth About Chicago's Crime Rates.
 ---
