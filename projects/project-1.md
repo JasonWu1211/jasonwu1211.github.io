@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /images/crimecover.jpg
+image: images/crimecover.jpg
 title: Chicago Crime Data Visualization
 permalink: projects/ChicagoCrime_DataVisualization
 # All dates must be YYYY-MM-DD format!
@@ -33,7 +33,7 @@ Here is What we Found out:
 
 
 
-You can learn more about the results and codes at my [GitHub Website](https://github.com/JasonWu1211/Portfolio/tree/master/Data%20Visualization%20-%20Chicago%20Crime%20%7C%20R).
+You can learn more about the results and codes at my [GitHub Portfolio](https://github.com/JasonWu1211/Portfolio/tree/master/Data%20Visualization%20-%20Chicago%20Crime%20%7C%20R).
 
 
 
