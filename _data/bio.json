@@ -29,10 +29,8 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "data science",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
@@ -73,12 +71,12 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "institution": "DePaul University, Chicago, IL",
+      "area": "Predictive Analytics (Data Science)",
+      "studyType": "Master of Science (MS)",
+      "startDate": "",
+      "endDate": "2018",
+      "gpa": "3.98",
       "courses": [
       ]
     }
