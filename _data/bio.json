@@ -113,6 +113,27 @@
       ]
     }
   ],
+  "certifications": [
+    {
+      "title": "Data Analyst with Python",
+      "date": "2018",
+      "awarder": "DataCamp",
+      "summary": "License #40512"
+    },
+    {
+      "title": "Python Programmer",
+      "date": "2018",
+      "awarder": "DataCamp",
+      "summary": "License #40513"
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
+  
   "work": [
     {
       "company": "NORC at the University of Chicago",
@@ -171,24 +192,6 @@
       "date": "2017",
       "awarder": "Golden Key International Honour Society",
       "summary": "As one of the top-performing, fifteen percent, of all graduate students, I was invited to join the Golden Key International Honour Society."
-    },
-    {
-      "title": "Data Analyst with Python",
-      "date": "2018",
-      "awarder": "DataCamp",
-      "summary": "License #40512"
-    },
-    {
-      "title": "Python Programmer",
-      "date": "2018",
-      "awarder": "DataCamp",
-      "summary": "License #40513"
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
     }
   ]
 }
