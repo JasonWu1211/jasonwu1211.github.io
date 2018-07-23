@@ -50,7 +50,6 @@
         "Anomaly Detection",
         "Random Forest",
         "SVM",
-        "Feature Selection",
         "Dimensional Reduction"
       ]
     },
