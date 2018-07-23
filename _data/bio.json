@@ -29,26 +29,57 @@
   },
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Programming & Data Management",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python (Scikit-Learn)",
+        "R",
+        "SQL",
+        "PL/SQL",
+        "Matlab"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "MACHINE LEARNING & DATA MINING",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Supervised Learning",
+        "Unsupervised Learning",
+        "Clustering",
+        "Classification",
+        "Regression",
+        "Pattern Recognition",
+        "Anomaly Detection",
+        "Random Forest",
+        "SVM",
+        "Feature Selection",
+        "Dimensional Reduction"
+      ]
+    },
+    {
+      "name": "DATA VISUALIZATION & ANALYSIS",
+      "level": "",
+      "keywords": [
+        "Tableau",
+        "Pandas",
+        "matplotlib",
+        "Seaborn",
+        "ggmap",
+        "ggplot",
+        "plotly",
+        "NumPy"
+      ]
+    },
+    {
+      "name": "BIG DATA & CLOUD SERVICES",
+      "level": "",
+      "keywords": [
+        "Hadoop",
+        "MapReduce",
+        "Hive",
+        "Pig",
+        "AWS",
+        "Mahout"
       ]
     }
   ],
