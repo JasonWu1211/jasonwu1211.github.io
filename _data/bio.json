@@ -29,7 +29,7 @@
   },
   "skills": [
     {
-      "name": "Programming & Data Management",
+      "name": "PROGRAMMING & DATA MANAGEMENT",
       "level": "",
       "keywords": [
         "Python (Scikit-Learn)",
@@ -40,11 +40,9 @@
       ]
     },
     {
-      "name": "Machine Learning & Data Mining",
+      "name": "MACHINE LEARNING & DATA MINING",
       "level": "",
       "keywords": [
-        "Supervised Learning",
-        "Unsupervised Learning",
         "Clustering",
         "Classification",
         "Regression",
@@ -57,7 +55,7 @@
       ]
     },
     {
-      "name": "Data Visualization & Analysis",
+      "name": "DATA VISUALIZATION & ANALYSIS",
       "level": "",
       "keywords": [
         "Tableau",
@@ -71,7 +69,7 @@
       ]
     },
     {
-      "name": "Big Data & Cloud Services",
+      "name": "BIG DATA & CLOUD SERVICES",
       "level": "",
       "keywords": [
         "Hadoop",
