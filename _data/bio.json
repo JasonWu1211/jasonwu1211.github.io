@@ -27,6 +27,25 @@
       }  
     ]
   },
+  "interests": [
+    {
+      "name": "Data Science & Data Mining",
+      "keywords": [
+        "Arduino",
+        "TI MSP430"
+      ]
+    },
+    {
+      "name": "Recommender Systems",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "keywords": [
+      ]
+    }
+  ],
   "skills": [
     {
       "name": "PROGRAMMING & DATA MANAGEMENT",
@@ -48,8 +67,6 @@
         "Regression",
         "Pattern Recognition",
         "Anomaly Detection",
-        "Random Forest",
-        "SVM",
         "Dimensional Reduction"
       ]
     },
