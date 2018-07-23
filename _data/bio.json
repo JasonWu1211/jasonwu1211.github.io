@@ -7,7 +7,13 @@
     "phone": "(815) 582-0411",
     "website": "https://jasonwu1211.github.io",
     "summary": "Self-directed Master of Science graduate, with a focus on predictive analytics, offering 2+ years of practical experience and knowledge using the data science and data analytics function to uncover, interpret, and translate meaningful information into company roadmaps that improve business outcomes. Inquisitive and technically-adept, underpinned by substantial project experience using a variety of data mining and data analysis tools, identifying patterns, and building, testing, and implementing statistical models that solve challenging problems across a diverse set of business needs.",
-    "location": "United States",
+    "location": {
+      "address": "",
+      "postalCode": "60610",
+      "city": "CHICAGO",
+      "countryCode": "USA",
+      "region": "IL"
+    },
     "profiles": [
       {
         "network": "github",
