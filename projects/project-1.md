@@ -1,44 +1,43 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: /images/crimecover.jpg
+title: Chicago Crime Data Visualization
+permalink: projects/ChicagoCrime_DataVisualization
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2017-05-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Data Visualization
+  - R
+  - Tableau
+  - Geographical Heat Map
+  - Time Series Analysis
+  - Exploratory Data Analysis
+  
+summary: The Truth About Chicago's Crime Rates.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/heatmap2.jpg">
+  <img class="ui image" src="../images/top10.png">
+  <img class="ui image" src="../images/Screen Shot 2017-05-28 at 2.14.08 PM.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+This project was inspired out of a curiosity for assessing crime rates throughout Chicago’s various different neighborhoods. Using Tableau, R statistical analysis, and the 2012 – 2016 crime data from Kaggle, my team and I investigated the different types of crimes that occurred, the arrest rates, and the frequency and time of year they took place. This investigation covered 3 different techniques for analyzing the crime dataset: exploratory graphs (dot and bar charts and treemaps), time series (line plots and heat maps), and geographical graphs.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
 
-Here is some code that illustrates how we read values from the line sensors:
+Here is What we Found out:
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+* Crime Hot Spots: downtown, southside, and area between Oak Park and Downtown
+* Overall crime in Chicago has declined from 2012 to 2016
+* Top crime types committed were theft and battery
+* Recurring high crime rate during the summer periond (June - August) every year
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+<img class="ui medium right floated rounded image" src="/images/heatmap2.jpg">
+
+
+
+You can learn more about the results and codes at my [GitHub Website](https://github.com/JasonWu1211/Portfolio/tree/master/Data%20Visualization%20-%20Chicago%20Crime%20%7C%20R).
 
 
 
