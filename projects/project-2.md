@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/noshowCover.jpg
-title: Patient Behavior Study - Medical No show
+title: Patient Behavior Study - Medical No-Show
 permalink: projects/MedNoShow
 # All dates must be YYYY-MM-DD format!
 date: 2017-11-15
