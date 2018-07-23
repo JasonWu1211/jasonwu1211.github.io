@@ -22,15 +22,15 @@ summary: The Truth About Chicago's Crime Rates.
   <img class="ui image" src="../images/Screen Shot 2017-05-28 at 2.14.08 PM.png">
 </div>
 
-This project was inspired out of a curiosity for assessing crime rates throughout Chicago’s various different neighborhoods. Using Tableau, R statistical analysis, and the 2012 – 2016 crime data from Kaggle, my team and I investigated the different types of crimes that occurred, the arrest rates, and the frequency and time of year they took place. This investigation covered 3 different techniques for analyzing the crime dataset: exploratory graphs (dot and bar charts and treemaps), time series (line plots and heat maps), and geographical graphs.
+This project was inspired out of a curiosity for assessing __crime rates throughout Chicago’s various different neighborhoods__. Using __Tableau, R statistical analysis, and the 2012 – 2016 crime data from Kaggle__, my team and I investigated the different types of crimes that occurred, the arrest rates, and the frequency and time of year they took place. This investigation covered 3 different techniques for analyzing the crime dataset: __exploratory graphs__ (dot plots, bar charts and treemaps), __time series__ (line plots and heat maps), and __geographical graphs__.
 
 
-Here is what we found out:
+### Here is what we found out:
 
-* Crime Hot Spots: downtown, southside, and area between Oak Park and Downtown
-* Overall crime in Chicago has declined from 2012 to 2016
-* Top crime types committed were theft and battery
-* Recurring high crime rate during the summer periond (June - August) every year
+* __Crime Hot Spots:__ downtown, southside, and area between Oak Park and Downtown
+* Overall crime in Chicago has __declined from 2012 to 2016__
+* Top crime types committed were __theft and battery__
+* __Recurring high crime rate__ during the __summer__ periond (June - August) every year
 
 
 
