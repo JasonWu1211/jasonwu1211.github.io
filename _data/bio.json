@@ -72,7 +72,7 @@
   "education": [
     {
       "institution": "DePaul University, Chicago, IL",
-      "area": "Predictive Analytics (Data Science)",
+      "area": "Predictive Analytics (Data Science), GPA: 3.98",
       "studyType": "Master of Science (MS)",
       "startDate": "",
       "endDate": "2018",
@@ -82,8 +82,9 @@
     },
     {
       "institution": "Tamkang University, New Taipei, Taiwan",
-      "area": "International Business",
-      "studyType": "BBA",
+      "area": "International Business, GPA: 3.58",
+      "studyType": "Bachelor of Business Administration (BBA)",
+      "startDate": "",
       "endDate": "2013",
       "gpa": "3.58",
       "courses": [
