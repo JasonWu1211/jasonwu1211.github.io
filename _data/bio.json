@@ -29,22 +29,16 @@
   },
   "interests": [
     {
-      "name": "Data Science",
+      "name": "Data Mining",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
       "name": "Machine Learning",
       "keywords": [
       ]
-    },
-    {
-      "name": "Predictive Analytics ",
-      "keywords": [
-      ]
     }
+    
   ],
   "skills": [
     {
