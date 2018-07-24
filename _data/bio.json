@@ -24,7 +24,13 @@
         "network": "linkedin",
         "username": "jasonwu1211",
         "url": "http://linkedin.com/in/jasonwu1211"
-      }  
+      },
+      {
+        "network": "address card",
+        "username": "Donload My Contact",
+        "url": "http://jasonwu1211.github.io/resources/Jason-Wu-vcard%20.vcf"
+      }
+      
     ]
   },
   "interests": [
