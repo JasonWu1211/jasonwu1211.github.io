@@ -12,8 +12,7 @@
     <div class="ui grid">
       <div class="twelve wide column no-bottom">
         <p class="ui no-bottom"><b>{{ entry.prj }}, {{ entry.sub }}</b></p>
-        <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://"
-          }}</a></p>
+        <p class="ui no-bottom"><a href="{{ entry.website }}"> <i class="large {{ entry.network | downcase }} icon "></i>{{ entry.relate }}</a></p>
         <p class="ui no-bottom">{{ entry.summary }}</p>
         {% if entry.highlights %}
         <ul style="margin: 0px;">
