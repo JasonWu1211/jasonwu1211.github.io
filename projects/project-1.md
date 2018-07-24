@@ -35,7 +35,7 @@ This project was inspired out of a curiosity for assessing __crime rates through
 
 
 
-You can learn more about the results and codes at my [GitHub Portfolio](https://github.com/JasonWu1211/Portfolio/tree/master/Data%20Visualization%20-%20Chicago%20Crime%20%7C%20R).
+You can learn more about the results and codes at my [GitHub Portfolio](https://github.com/JasonWu1211/Portfolio/tree/master/Data%20Visualization%20-%20Chicago%20Crime%20%7C%20R/README.md).
 
 
 
