@@ -17,17 +17,17 @@
     "profiles": [
       {
         "network": "github",
-        "username": "github.com/JasonWu1211/Portfolio",
+        "username": "JasonWu1211",
         "url": "https://github.com/JasonWu1211/Portfolio/blob/master/README.md"
       },
       {
         "network": "linkedin",
-        "username": "linkedin.com/in/jasonwu1211",
+        "username": "jasonwu1211",
         "url": "http://linkedin.com/in/jasonwu1211"
       },
       {
-        "network": "card",
-        "username": "Donload My Contact",
+        "network": "address",
+        "username": "Save My Contact",
         "url": "http://jasonwu1211.github.io/resources/Jason-Wu-vcard%20.vcf"
       }
       
