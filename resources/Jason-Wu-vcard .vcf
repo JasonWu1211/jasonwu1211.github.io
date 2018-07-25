@@ -1,8 +1,8 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//Mac OS X 10.13.3//EN
-N:Wu ►MS in Predictive Analytics;Jason;;;
-FN:Jason Wu ►MS in Predictive Analytics
+N:Wu ►MS in Data Science;Jason;;;
+FN:Jason Wu ►MS in Data Science
 EMAIL;type=INTERNET;type=WORK;type=pref:jasonwu1211@gmail.com
 TEL;type=IPHONE;type=CELL;type=VOICE;type=pref:815-582-0411
 item1.URL;type=pref:https://jasonwu1211.github.io/
