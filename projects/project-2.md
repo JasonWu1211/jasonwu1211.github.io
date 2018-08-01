@@ -13,6 +13,7 @@ labels:
   - Jupyter
   - Supervised Learning
   - Pattern Recognition
+  - Feature Selection
 summary: Why Patients Don't Show Up For Appointments
 ---
 <img class="ui medium right floated rounded image" src="../images/featureimportance.PNG">
