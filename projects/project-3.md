@@ -12,6 +12,9 @@ labels:
   - Jupyter
   - Rank
   - Recommender System
+  - Word Cloud
+  - Collaborative Filtering
+  
 summary: Collaborative Based Recommender System for Personalized Anime Recommendations
 ---
 
