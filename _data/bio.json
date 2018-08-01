@@ -46,7 +46,7 @@
       "name": "PROGRAMMING & DATA MANAGEMENT",
       "level": "",
       "keywords": [
-        "Python (Scikit-Learn)",
+        "Python",
         "R",
         "SQL",
         "PL/SQL",
@@ -70,6 +70,7 @@
       "level": "",
       "keywords": [
         "Tableau",
+        "Scikit-Learn",
         "Pandas",
         "matplotlib",
         "Seaborn",
@@ -87,8 +88,7 @@
         "MapReduce",
         "Hive",
         "Pig",
-        "AWS",
-        "Mahout"
+        "AWS"
       ]
     }
   ],
