@@ -50,7 +50,8 @@
         "R",
         "SQL",
         "PL/SQL",
-        "Matlab"
+        "Matlab",
+        "Git"
       ]
     },
     {
@@ -171,6 +172,20 @@
     }
   ],
   "work": [
+    
+    {
+      "company": "DataCO Solutions",
+      "position": "Data Scientist",
+      "website": "",
+      "endDate": "Present",
+      "summary": "Brought on board to provide marketing solutions thru the use of predictive analytics. Working with almost all industries using all forms of data to provide insight and actionable recommendations to marketers. Developing analytical tools, machine learning models and reporting dashboards from scratch using all kinds of statistical and programming software including SQL, python, R, Git and more.",
+      "highlights": [
+        "Leveraged machine learning to build automated lead scoring systems for clients and maintained the script daily.",
+        "Applied statistical & hypothesis testing for marketing segmentation and penetration research.",
+        "Analyzed customer value using marketing analysis technique including but not limited to Customer lifetime value, cohort and churn analysis."
+      ]
+    },
+    
     {
       "company": "NORC at the University of Chicago",
       "position": "Survey Assistant",
