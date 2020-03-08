@@ -50,7 +50,7 @@
         "R",
         "SQL",
         "PL/SQL",
-        "Matlab",
+        "Shell Scripting",
         "Git"
       ]
     },
@@ -78,7 +78,8 @@
         "ggmap",
         "ggplot",
         "plotly",
-        "NumPy"
+        "NumPy",
+        "Rshiny"
       ]
     },
     {
