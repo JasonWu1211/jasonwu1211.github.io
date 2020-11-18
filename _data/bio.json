@@ -128,6 +128,12 @@
       "date": "2018",
       "issuer": "DataCamp",
       "licence": "License #40513"
+    },
+    {
+      "cert": "Google Analytics Individual Qualification (GAIQ)",
+      "date": "2018",
+      "issuer": "Google",
+      "licence": "License #60509313"
     }
   ],
   
@@ -198,17 +204,8 @@
         "Applied balanced interpersonal, technical, and communication skills to persuade respondents to participate in the survey while ensuring the protection of each respondent’s personal information.",
         "Undertook a side project focused on updating key contact information, based on the business and survey application needs, within the organization’s database to improve the survey mailing quality."
       ]
-    },
-    {
-      "company": "GET Educational",
-      "position": "Marketing Data Analyst",
-      "website": "",
-      "endDate": "2013-12-01",
-      "summary": "Hired to collect and analyze student data using SQL. Contributed to the development of engaging marketing and promotional materials, based on data analysis and interpretation, to grow student enrollment levels.",
-      "highlights": [
-        "Achieved a 20% increase in response rates within a 2-month period by thinking ‘outside the box’ and promoting the program in a university setting, resulting in a 10% growth in student annual enrollment rates."
-      ]
     }
+    
   ],
   "awards": [
     {
