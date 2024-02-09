@@ -1,29 +1,24 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Embedded Google Doc</title>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
-        iframe {
-            width: 80%; /* Adjust the width as needed */
-            height: 80vh; /* Adjust the height as needed */
-        }
-    </style>
-</head>
-<body>
+<div style="margin-top: 10px; margin-bottom: 20px" class="ui stackable grid container">
 
-<!-- Replace 'your_google_doc_link' with the link you copied from Google Docs -->
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSH6Wj5jGoPuxhqsnyVXvEzVMCZ8L688EANd4Doo8FZvPpsoxTNdJVZ9pBbLjetAw/pub?embedded=true" frameborder="0"></iframe>
+  <div class="sixteen wide column no-bottom">
+    <h2 class="ui center aligned header no-bottom">{{ site.data.bio.basics.name }}</h2>
+    <p style="text-align: center">Abbreviated Resume (complete Resume is <a href="https://docs.google.com/document/d/1c_XKfuC9b2qNxjggVBO60vWexGmVeznH/" target="_blank">here</a>)</p>
+  </div>
 
-</body>
-</html>
+
+  {% include bio-skills-1.html %}
+  {% include bio-education-1.html %}
+  {% include bio-certifications-1.html %}
+  {% include bio-work-1.html %}
+  {% include bio-projects-1.html %}
+  {% include bio-awards-1.html %}
+  {% include bio-references-1.html %}
+
+  <div class="sixteen wide column no-bottom">
+    <hr>
+    <p style="text-align: center">Complete Resume for Jason Wu is <a href="https://docs.google.com/document/d/1c_XKfuC9b2qNxjggVBO60vWexGmVeznH/" target="_blank">here</a></p>
+  </div>
+
+</div>
 
 
