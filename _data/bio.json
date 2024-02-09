@@ -58,7 +58,11 @@
         "SQL",
         "PL/SQL",
         "Shell Scripting",
-        "Git"
+        "Git",
+        "dbt",
+        "snowflake"
+        
+        
       ]
     },
     {
