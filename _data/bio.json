@@ -130,19 +130,19 @@
   "certifications": [
     {
       "cert": "Data Analyst with Python",
-      "date": "2018",
+      "date": "",
       "issuer": "DataCamp",
       "licence": "License #40512"
     },
     {
       "cert": "Python Programmer",
-      "date": "2018",
+      "date": "",
       "issuer": "DataCamp",
       "licence": "License #40513"
     },
     {
       "cert": "Google Analytics Individual Qualification (GAIQ)",
-      "date": "2018",
+      "date": "",
       "issuer": "Google",
       "licence": "License #60509313"
     }
@@ -155,7 +155,7 @@
       "website": "https://github.com/JasonWu1211/Portfolio/blob/master/Anime%20Recommender%20Systems%20%7C%20Python/README.md",
       "network": "github",
       "relate": "see project",
-      "endDate": "2018",
+      "endDate": "",
       
     },
     {
@@ -164,7 +164,7 @@
       "website": "https://github.com/JasonWu1211/Portfolio/tree/master/Ensemble%20Learning%20-%20Predicting%20Medical%20Medical%20No%20Show%20%7C%20Python/README.md",
       "network": "github",
       "relate": "see project",
-      "endDate": "2017",
+      "endDate": "",
       
     },
     {
@@ -173,7 +173,7 @@
       "website": "https://github.com/JasonWu1211/Portfolio/tree/master/Data%20Visualization%20-%20Chicago%20Crime%20%7C%20R/README.md",
       "network": "github",
       "relate": "see project",
-      "endDate": "2017",
+      "endDate": "",
       
     }
   ],
