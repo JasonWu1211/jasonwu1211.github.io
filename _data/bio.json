@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Jason Wu",
-    "label": "Data Scientist | Predictive Modeling & Machine Learning",
+    "label": "Chicago-based Data Scientist | Predictive Modeling & Machine Learning",
     "picture": "https://jasonwu1211.github.io/images/JW_profile_image.png",
     "email": "jasonwu1211@gmail.com",
     "website": "https://jasonwu1211.github.io",
@@ -152,12 +152,7 @@
       "network": "github",
       "relate": "see project",
       "endDate": "2018",
-      "summary": "Single-handedly developed a collaborative-based anime recommender system capable of generating a personalized list of anime recommendations based on database information comprising total user history and rating ID user feedback.Challenged to establish and train the appropriate evaluation matrix and key metrics to gauge the model’s performance and accuracy in providing practical information to improve the user experience.",
-      "highlights": [
-        "Boosted the system’s accuracy from 30% to 45% ",
-        "Streamlined the analysis of large datasets by integrating a data pre-processing system that enhanced the rating data quality",
-        "Maximized the results by incorporating and fine-tuning key performance metrics including a nDCG matrix, coverage, and average list popularity, which diversified the items in the list."
-      ]
+      
     },
     {
       "sub": "Healthcare | Python",
@@ -166,11 +161,7 @@
       "network": "github",
       "relate": "see project",
       "endDate": "2017",
-      "summary": "Investigated basic and advanced machine learning algorithms (Naïve Bayes, Ensemble, Support Vector Machine [SVM]) and created predictive models to analyze medical appointment datasets from Kaggle to determine why patients were missing appointments. Planned and executed experiments to optimize models’ performance by selecting the most relevant key features and identify the best algorithm that would help hospitals predict show or no-show cases",
-      "highlights": [
-        "builded better results by combining the advantages of multiple machine learning algorithms, including SVM, gradient boosting, and random forest to identify no-show cases based on more than 110,000 data entries.",
-        "Resolved imbalanced Class issue using SMOTE (Synthetic Minority Over-sampling Technique)."
-      ]
+      
     },
     {
       "sub": "Crime | R, Tableau",
@@ -179,25 +170,33 @@
       "network": "github",
       "relate": "see project",
       "endDate": "2017",
-      "summary": "Used Tableau, R statistical analysis, geographical heat maps, and the 2012 to 2016 crime data from Kaggle to investigate the different crimes, time, location, and the frequency in which they were committed throughout Chicago’s various neighborhoods.",
-      "highlights": [
-        "Concluded that overall crime in Chicago has declined and that the highest crime rates specifically occur downtown, on the south side, and the area between Oak Park and downtown during the summer period from June to August."
-      ]
+      
     }
   ],
   "work": [
+
+    {
+      "company": "Thimble",
+      "position": "Analytics LeadData Science Manager",
+      "website": "",
+      "endDate": "2023-06-31",
+      
+    },
+
+    {
+      "company": "Bluecore",
+      "position": "Data Analyst, Value Consulting & Revenue Operation",
+      "website": "",
+      "endDate": "2022-02-01",
+      
+    },
     
     {
       "company": "DataCO Solutions",
       "position": "Marketing Data Scientist",
       "website": "",
       "endDate": "2020-11-30",
-      "summary": "Brought on board to provide marketing solutions thru the use of predictive analytics. Working with almost all industries using all forms of data to provide insight and actionable recommendations to marketers. Developing analytical tools, machine learning models and reporting dashboards from scratch using all kinds of statistical and programming software including SQL, python, R, Git and more.",
-      "highlights": [
-        "Leveraged machine learning to build automated lead scoring systems for clients and maintained the script daily.",
-        "Applied statistical & hypothesis testing for marketing segmentation and penetration research.",
-        "Analyzed customer value using marketing analysis technique including but not limited to Customer lifetime value, cohort and churn analysis."
-      ]
+      
     },
     
     {
@@ -205,12 +204,7 @@
       "position": "Survey Assistant",
       "website": "",
       "endDate": "2017-11-21",
-      "summary": "Brought on board to provide strategic data analysis and support for a National Science Foundation-sponsored project. Fielded a large volume of daily phone calls to gather up-to-date contact information, verify respondents’ identity, and apply advanced Excel and database management skills to clean, query, and derive data insights to increase international survey response rates.",
-      "highlights": [
-        "Achieved data collection and cleaning for 87% of cases and detected missing values for 14% of the cases.",
-        "Applied balanced interpersonal, technical, and communication skills to persuade respondents to participate in the survey while ensuring the protection of each respondent’s personal information.",
-        "Undertook a side project focused on updating key contact information, based on the business and survey application needs, within the organization’s database to improve the survey mailing quality."
-      ]
+      
     }
     
   ],
