@@ -1,11 +1,16 @@
 {
   "basics": {
     "name": "Jason Wu",
-    "label": "Chicago-based Data Scientist | Predictive Modeling & Machine Learning",
+    "label": "Data Scientist | Predictive Modeling & Machine Learning",
     "picture": "https://jasonwu1211.github.io/images/JW_profile_image.png",
     "email": "jasonwu1211@gmail.com",
     "website": "https://jasonwu1211.github.io",
     "summary": "Self-directed marketing data scientist, with a focus on predictive analytics, offering years of practical experience and knowledge using data science to uncover insighful information and improve business outcomes.",
+    "location": {
+      "address": "",
+      "city": "Chicago",
+      "region": "IL"
+    },
     "profiles": [
       {
         "network": "github",
